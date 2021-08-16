@@ -1,4 +1,4 @@
-## Stephen Goodlett
+## Profile Information
 
 Second year graduate student at the University of Georgia. Working under Dr. Justin Turney and Professor Henry Schaefer at the Center for Computational Quantum Chemistry.
 
