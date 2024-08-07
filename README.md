@@ -10,7 +10,7 @@ Third year graduate student at the University of Georgia. Working under Professo
 - Non-Abelian Symmetry in Electronic Structure Calculations
 
 ### Projects
-- [MolSym](https://github.com/CCQC/MolSym): Python package for symmetry detection and SALC construction for molecules
+- [MolSym](https://github.com/NASymmetry/MolSym): Python package for symmetry detection and SALC construction for molecules
 - [PES-Learn](https://github.com/CCQC/PES-Learn): Automated machine learning for potential energy surface modeling
 - [Molecules](https://github.com/FermiQC/Molecules.jl): A Julia package for handling molecular properties
 - [Fermi](https://github.com/FermiQC/Fermi.jl): A Julia electronic structure package
