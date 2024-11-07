@@ -1,6 +1,7 @@
 ## Profile Information
+Recieved PhD in chemistry from the University of Georgia in 2024 under the direction of Prof. Henry F. Schaefer III.
+Currently a postdoctoral associate at Justus Liebig University under Prof. Peter R. Schreiner.
 
-Third year graduate student at the University of Georgia. Working under Professor Henry Schaefer at the Center for Computational Quantum Chemistry.
 
 ### Interests
 - Quantum Chemistry
@@ -8,6 +9,7 @@ Third year graduate student at the University of Georgia. Working under Professo
 - Machine Learning
 - High Efficeincy Computing
 - Non-Abelian Symmetry in Electronic Structure Calculations
+- Tunneling in chemical reactions
 
 ### Projects
 - [MolSym](https://github.com/NASymmetry/MolSym): Python package for symmetry detection and SALC construction for molecules
