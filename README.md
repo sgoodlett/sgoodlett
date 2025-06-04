@@ -4,12 +4,13 @@ Currently a postdoctoral associate at Justus Liebig University under Prof. Peter
 
 
 ### Interests
-- Quantum Chemistry
-- Potential Energy Surfaces
-- Machine Learning
-- High Efficeincy Computing
-- Non-Abelian Symmetry in Electronic Structure Calculations
+- Quantum chemistry
+- Potential energy surfaces
+- Machine learning
+- High efficeincy computing
+- Nonabelian symmetry in electronic structure computations
 - Tunneling in chemical reactions
+- Quantum computing applications to chemical modeling
 
 ### Projects
 - [MolSym](https://github.com/NASymmetry/MolSym): Python package for symmetry detection and SALC construction for molecules
